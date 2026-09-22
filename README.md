@@ -2,7 +2,7 @@
 
 Daymark is a personal to-do application built with React. It helps a user add, organise, and track daily tasks by category, due date, and completion status. Tasks are saved in the browser with `localStorage`, so the list is still there after a page refresh.
 
-**GitHub repository:** https://github.com/manishphuyal9745-spec/daymark
+**GitHub repository:** [https://github.com/manishphuyal9745-spec/daymark](https://github.com/manishphuyal9745-spec/daymark)
 
 ## Features implemented
 
@@ -56,12 +56,17 @@ npm run preview
 
 ## Screenshots
 
-Screenshots of the running app are in the `screenshots/` folder:
+**1. Main dashboard (light theme)**
 
-- `screenshots/dashboard-light.png` — main dashboard (light theme)
-- `screenshots/dashboard-dark.png` — dark theme
-- `screenshots/mobile.png` — mobile layout
-- `screenshots/filter-active.png` — Active filter
+![Daymark dashboard light theme](screenshots/dashboard-light.png)
+
+**2. Dark theme**
+
+![Daymark dashboard dark theme](screenshots/dashboard-dark.png)
+
+**3. Mobile layout**
+
+![Daymark mobile layout](screenshots/mobile.png)
 
 ## Project structure
 
